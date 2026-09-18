@@ -5,3 +5,4 @@ function criarSlug(titulo) {
 }
 
 module.exports = { criarSlug };
+
